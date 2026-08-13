@@ -1,5 +1,5 @@
 # 💫 About Me:
-Bachelor of computing (NQF 8) | Aspiring Software Engineer | Web Development | Cloud Computing & DevOps | AI usage | Passionate about prob<br>
+Bachelor of computing (NQF 8) | Aspiring Software Engineer | Web Development | Cloud Computing & DevOps | AI usage | Passionate about problem solving <br>
 
 
 ## 🌐 Socials:
